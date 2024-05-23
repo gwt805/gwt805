@@ -1,4 +1,3 @@
-## 👋 Hi there 
 <div align="center">
 
 ![](https://github-immortality.vercel.app/api?username=gwt805)
